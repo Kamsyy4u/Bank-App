@@ -11,3 +11,7 @@ Description: The bank app created as shown above is designed to simulate basic b
 The bank app has the following features; 
 Creating a new account-The user can create a new bank account and deposit an initial amount to activate the account.
 Depositing and Withdrawing-The user can also withdraw from the amount initially deposited and also deposit more as he/she deems needful.
+
+## Bank App Technologies
+The code was written with Python programming language. The tkinter module in python was used to create the application as it allows fast and easy creation of Graphic User Interface application like this one.
+We used Python programming language because it is user friendly and easy to understand.
